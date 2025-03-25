@@ -1,3 +1,5 @@
 Welcome to git class.
 3 types of versionin systems
 localised, centralised, dedicated
+
+New changes added
